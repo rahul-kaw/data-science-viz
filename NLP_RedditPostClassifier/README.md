@@ -1,7 +1,7 @@
 ### Problem Description
 Classify reddit posts based on the post content. Use classfication modeling techniques to predict which sub-redit a post belongs to.
 
-####Data collection
+#### Data collection  
 API hosted on api.pushshift.io s used to collect posts from a given subreddit. 
 pushshift API accepts requests in following format
 https://api.pushshift.io/reddit/search/submission?subreddit=todayilearned
